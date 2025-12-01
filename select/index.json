@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "タイムレス",
+  "base_artist": "RINZO、高瀬統也",
+  "createdAt": "2025-12-01T08:44:58.333259Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "タイムレス - Timeless (feat. mahiru)",
+      "artist": "TakaseToya",
+      "has_synced": true,
+      "path": "select/01_タイムレス_-_Timeless_(feat._mahiru)_TakaseToya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "タイムレス (feat. 茉ひる)",
+      "artist": "TakaseToya",
+      "has_synced": true,
+      "path": "select/02_タイムレス_(feat._茉ひる)_TakaseToya.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "タイムレス",
+      "artist": "高瀬統也 & 茉ひる",
+      "has_synced": true,
+      "path": "select/03_タイムレス_高瀬統也_&_茉ひる.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "タイムレス",
+      "artist": "Takase, Toya & Mahiru",
+      "has_synced": true,
+      "path": "select/04_タイムレス_Takase,_Toya_&_Mahiru.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "タイムレス",
+      "artist": "THE CHARM PARK",
+      "has_synced": false,
+      "path": "select/05_タイムレス_THE_CHARM_PARK.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Timeless Melody",
+      "artist": "MONOBRIGHT",
+      "has_synced": false,
+      "path": "select/pl_01_Timeless_Melody_MONOBRIGHT.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Timeless",
+      "artist": "MONOBRIGHT",
+      "has_synced": false,
+      "path": "select/pl_02_Timeless_MONOBRIGHT.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Timeless",
+      "artist": "MONOBRIGHT",
+      "has_synced": false,
+      "path": "select/pl_03_Timeless_MONOBRIGHT.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Timeless～Mobius Rover～",
+      "artist": "MONOBRIGHT",
+      "has_synced": false,
+      "path": "select/pl_04_Timeless~Mobius_Rover~_MONOBRIGHT.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Timeless Affection ～Full version～",
+      "artist": "MONOBRIGHT",
+      "has_synced": false,
+      "path": "select/pl_05_Timeless_Affection_~Full_version~_MONOBRIGHT.txt"
+    }
+  ]
+}
